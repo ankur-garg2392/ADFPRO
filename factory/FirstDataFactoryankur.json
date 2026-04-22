@@ -1,0 +1,9 @@
+{
+	"name": "FirstDataFactoryankur",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "76793efd-f69b-401f-a52a-3bae3ba1690e",
+		"tenantId": "27f6a385-e5ec-4734-8feb-1b65444e132d"
+	}
+}
